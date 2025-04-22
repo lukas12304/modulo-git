@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>containers HTML</title>
+</head>
+<body>
+    <header>
+        <h1>containers</h1>
+        <nav>
+            <a href="./index.html">ir para index</a>
+
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>esportes</h2>  
+            <article>
+                <h3>futebol</h3>
+            </article> 
+            <section>
+                <section>
+                    <h2>economia</h2>  
+                    <article>
+                        <h3>desemprego cai</h3>
+                    </article> 
+                    <section>
+                        <aside>
+                            conteúdo
+                        </aside>
+        
+
+    </main>
+    <footer>
+        &copy; 2025 - Todos os direitos reservados
+    </footer>
+</body>
+</html>
