@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>tabelas</title>
+</head>
+<body>
+    <table>
+        <caption>tavela medias</caption>
+        <thead>
+            <tr>
+                <th>nome do aluno</th>
+                <th>nome do aluno</th>
+                <th>nome do aluno</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>aluno A</td>
+                <td>8</td>
+
+            </tr>
+            <tr>
+                <td>aluno B</td>
+                <td>7</td>
+                </tr>
+                <tr>
+                    <td>lucas</td>
+                    <td>10</td>
+                </tr>
+
+
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>media</td>
+            <td>8.33</td>
+        </tr>
+    </tfoot>
+    </table>
+</body>
+</html>
