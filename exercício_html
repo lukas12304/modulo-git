@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formulário de cadastro</title>
+</head>
+<h1>FORMULÁRIO DE CADASTRO</h1>
+
+<body>
+    <form>
+        <label id="usuário" for="Nome">Nome</label>
+        <input type="text" name="usuário" id="Nome" placeholder="usuário" required /><br><br>
+        <label for="email">E-mail</label>
+        <input type="text" name="email" id="email" placeholder="email" /><br><br>
+        <label for="senha:">Senha:</label>
+        <input id="senha" type="password" placeholder="senha" /><br>
+        <p><input type="button" value="cadastrar" /></p><br><br>
+    </form>
+</body>
+
+</html>
